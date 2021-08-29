@@ -1,1 +1,1 @@
-# Configs
+# LARBS -> dotfiles -> stow -> git
